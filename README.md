@@ -101,10 +101,6 @@ People-Counting-Threshold
 - Uses SMTP for sending emails
 - Configured in `send_mail.py`
 
----
-
-## 📝 License
-This project is licensed under the MIT License.
 
 ---
 
