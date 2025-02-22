@@ -1,4 +1,9 @@
 # People Counting Threshold
+![Screenshot (337)](https://github.com/user-attachments/assets/1877686b-d694-497a-a7af-5baca1bae24c)
+
+
+
+![Screenshot (339)](https://github.com/user-attachments/assets/79dc4b7a-96e4-49a9-9f33-f994e564045e)
 
 ## 📋 Description
 This project is a real-time people counting system using YOLOv5, capable of detecting and counting individuals from video streams or uploaded files. It includes automatic email alerts when more than three people are detected.
