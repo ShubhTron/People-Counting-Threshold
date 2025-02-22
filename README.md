@@ -8,6 +8,8 @@
 ## 📋 Description
 This project is a real-time people counting system using YOLOv5, capable of detecting and counting individuals from video streams or uploaded files. It includes automatic email alerts when more than three people are detected.
 
+### NOTE : Add your video in static/video/ and name it vid.mp4 and change email address
+
 🔗 **GitHub Repository:** [People-Counting-Threshold](https://github.com/ShubhTron/People-Counting-Threshold)
 
 ---
